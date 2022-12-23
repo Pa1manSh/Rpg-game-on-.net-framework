@@ -1,0 +1,8 @@
+C:\Users\novikoff\Desktop\рабочий стол\С#\learning\RPG\bin\Debug\RPG.exe.config
+C:\Users\novikoff\Desktop\рабочий стол\С#\learning\RPG\bin\Debug\RPG.exe
+C:\Users\novikoff\Desktop\рабочий стол\С#\learning\RPG\bin\Debug\RPG.pdb
+C:\Users\novikoff\Desktop\рабочий стол\С#\learning\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\novikoff\Desktop\рабочий стол\С#\learning\RPG\obj\Debug\RPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\novikoff\Desktop\рабочий стол\С#\learning\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\novikoff\Desktop\рабочий стол\С#\learning\RPG\obj\Debug\RPG.exe
+C:\Users\novikoff\Desktop\рабочий стол\С#\learning\RPG\obj\Debug\RPG.pdb
